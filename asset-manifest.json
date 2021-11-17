@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pooja-Ranpura/my-app/static/css/main.1f860df6.chunk.css",
-    "main.js": "/Pooja-Ranpura/my-app/static/js/main.d348f027.chunk.js",
-    "main.js.map": "/Pooja-Ranpura/my-app/static/js/main.d348f027.chunk.js.map",
+    "main.js": "/Pooja-Ranpura/my-app/static/js/main.f7ff505a.chunk.js",
+    "main.js.map": "/Pooja-Ranpura/my-app/static/js/main.f7ff505a.chunk.js.map",
     "runtime-main.js": "/Pooja-Ranpura/my-app/static/js/runtime-main.c25ded94.js",
     "runtime-main.js.map": "/Pooja-Ranpura/my-app/static/js/runtime-main.c25ded94.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Pooja-Ranpura/my-app/static/css/2.6d7c7915.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.54583389.chunk.js",
     "static/css/main.1f860df6.chunk.css",
-    "static/js/main.d348f027.chunk.js"
+    "static/js/main.f7ff505a.chunk.js"
   ]
 }
