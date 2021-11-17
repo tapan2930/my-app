@@ -1,43 +1,43 @@
 export const robots = [
   {
     id: 1,
-    name: 'Pooja Ranpura',
+    name: 'Pooja',
     username: 'Pooja',
     email: 'pooja123@gmail.com'
   },
   {
     id: 2,
-    name: 'Ronak Ranpura',
+    name: 'Ronak',
     username: 'Ronak',
     email: 'ronak@gmail.com'
   },
   {
     id: 3,
-    name: 'Kinjal Bhavsar',
+    name: 'Kinjal',
     username: 'Kinjal',
     email: 'kinjal@yesenia.net'
   },
   {
     id: 4,
-    name: 'Surabhi Bhavsar',
+    name: 'Surabhi',
     username: 'Surabhi',
     email: 'surabhi.OConner@kory.org'
   },
   {
     id: 5,
-    name: 'Nishita Bhavsar',
+    name: 'Nishita',
     username: 'Nishita',
     email: 'nishita@annie.ca'
   },
   {
     id: 6,
-    name: 'Rushi Ranpura',
+    name: 'Rushi',
     username: 'Rushi',
     email: 'rushi_Dach@jasper.info'
   },
   {
     id: 7,
-    name: 'Bansari Ranpura',
+    name: 'Bansari',
     username: 'Bansari',
     email: 'bansari.Hoeger@billy.biz'
   },
